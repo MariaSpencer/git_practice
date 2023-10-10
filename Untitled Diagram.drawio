@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-10-10T08:38:33.839Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="a4BRE_-gTp5rRdlr1fqK" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-10T08:45:10.953Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="3Oc9shKHedfqTXMEwBxc" version="22.0.4" type="github">
   <diagram name="Page-1" id="i3Bq2wIUowkESgG7gXPR">
-    <mxGraphModel dx="634" dy="1320" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="394" dy="1320" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="M2za0-usRnXLjD97VA7g-3" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="652" y="-476" width="468" height="468" as="geometry" />
+          <mxGeometry x="673" y="-475" width="468" height="468" as="geometry" />
         </mxCell>
         <mxCell id="M2za0-usRnXLjD97VA7g-4" value="Senior&amp;nbsp;&lt;br&gt;Tutor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="595" y="-98" width="30" height="60" as="geometry" />
@@ -15,6 +15,24 @@
         </mxCell>
         <mxCell id="M2za0-usRnXLjD97VA7g-9" value="Personal &lt;br&gt;Supervisor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="595" y="-466" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="M2za0-usRnXLjD97VA7g-10" value="Review the status of all their students" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="695" y="-462" width="128" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="M2za0-usRnXLjD97VA7g-11" value="Book a meeting with students" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="703" y="-361" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="M2za0-usRnXLjD97VA7g-12" value="Book a meeting with personal supervisor" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="993" y="-306" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="M2za0-usRnXLjD97VA7g-13" value="See the status of all students&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="681" y="-161" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="M2za0-usRnXLjD97VA7g-14" value="See how PS are interacting with students" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="707" y="-87" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="M2za0-usRnXLjD97VA7g-16" value="Self report how they are feeling/progressing at fixed intervals" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="993" y="-226" width="140" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
