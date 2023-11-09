@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-09T09:14:15.407Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="Xo48pteV8wJemmwlbWWa" version="22.1.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2023-11-09T09:57:16.135Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="DbnZe47HcigJNVCc0jcp" version="22.1.0" type="github" pages="9">
   <diagram name="Page-1" id="i3Bq2wIUowkESgG7gXPR">
     <mxGraphModel dx="480" dy="1575" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -258,7 +258,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="cF1dC18Lq04ErVK8GpG0" name="Activity diagram 1">
-    <mxGraphModel dx="880" dy="775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1035" dy="912" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -273,7 +273,7 @@
         <mxCell id="Cf-V8ROyNI_L8UjY_Mmk-5" value="&#39;Book a meeting&#39; selected?" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="218.75" y="180" width="132.5" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="Cf-V8ROyNI_L8UjY_Mmk-6" value="no" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="Cf-V8ROyNI_L8UjY_Mmk-5" parent="1">
+        <mxCell id="Cf-V8ROyNI_L8UjY_Mmk-6" value="no" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="Cf-V8ROyNI_L8UjY_Mmk-5" parent="1" target="DH5u-eAbbPy-qOaR8176-20">
           <mxGeometry x="-1" relative="1" as="geometry">
             <mxPoint x="420" y="225" as="targetPoint" />
           </mxGeometry>
@@ -284,27 +284,114 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Cf-V8ROyNI_L8UjY_Mmk-9" value="User enters selection number" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="230" y="420" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DH5u-eAbbPy-qOaR8176-2" value="Selection displayed for meeting type" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="230" y="320" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Cf-V8ROyNI_L8UjY_Mmk-10" value="User entered 1?" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
-          <mxGeometry x="222.5" y="430" width="125" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="Cf-V8ROyNI_L8UjY_Mmk-11" value="no" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="Cf-V8ROyNI_L8UjY_Mmk-10" parent="1">
-          <mxGeometry x="-1" relative="1" as="geometry">
-            <mxPoint x="420" y="465" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Cf-V8ROyNI_L8UjY_Mmk-12" value="yes" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="Cf-V8ROyNI_L8UjY_Mmk-10" parent="1">
-          <mxGeometry x="-1" relative="1" as="geometry">
-            <mxPoint x="285" y="550" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Cf-V8ROyNI_L8UjY_Mmk-15" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" parent="1">
+        <mxCell id="DH5u-eAbbPy-qOaR8176-3" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="284.5" y="430" as="targetPoint" />
+            <mxPoint x="285" y="420" as="targetPoint" />
             <mxPoint x="284.5" y="370" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="DH5u-eAbbPy-qOaR8176-4" value="User enters date they are available" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="230" y="520" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DH5u-eAbbPy-qOaR8176-5" value="User enters time they are available from" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="230" y="620" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DH5u-eAbbPy-qOaR8176-6" value="User enters time they are available to" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="225" y="720" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DH5u-eAbbPy-qOaR8176-7" value="Does the user have more availablity" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="225" y="806" width="135" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="DH5u-eAbbPy-qOaR8176-9" value="yes" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="DH5u-eAbbPy-qOaR8176-4">
+          <mxGeometry x="-0.1308" y="-9" relative="1" as="geometry">
+            <mxPoint x="130" y="440" as="targetPoint" />
+            <mxPoint x="225" y="870" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="225" y="871" />
+              <mxPoint x="131" y="871" />
+              <mxPoint x="131" y="545" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DH5u-eAbbPy-qOaR8176-19" value="no" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="427.75" y="871" as="targetPoint" />
+            <mxPoint x="358.75" y="871" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DH5u-eAbbPy-qOaR8176-20" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="425" y="856" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DH5u-eAbbPy-qOaR8176-22" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="284.91" y="520" as="targetPoint" />
+            <mxPoint x="284.41" y="470" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DH5u-eAbbPy-qOaR8176-23" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="284.91" y="620" as="targetPoint" />
+            <mxPoint x="284.41" y="570" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DH5u-eAbbPy-qOaR8176-24" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="284.91" y="720" as="targetPoint" />
+            <mxPoint x="284.41" y="670" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DH5u-eAbbPy-qOaR8176-25" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="292.40999999999997" y="810" as="targetPoint" />
+            <mxPoint x="291.90999999999997" y="760" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Pyrh3TMasd7ch_yv_4Hz" name="Activity diagram 2">
+    <mxGraphModel dx="880" dy="775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="LJ3qZnejcV0hZnK-WurA" name="Activity diagram 3">
+    <mxGraphModel dx="880" dy="775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="wSYgke087fI0bLZiHtqf" name="Activity diagram 4">
+    <mxGraphModel dx="880" dy="775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="L_igLqxUPdKjeCJYsUCj" name="Activity diagram 5">
+    <mxGraphModel dx="880" dy="775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="7ERqfSAgjp9ZR59ro-34" name="Activity diagram 6">
+    <mxGraphModel dx="880" dy="775" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
