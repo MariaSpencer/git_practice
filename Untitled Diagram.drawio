@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-09T13:20:52.590Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="PCYiPTkTqJVM2hrYezlU" version="22.1.0" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2023-11-09T13:24:32.507Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36 Edg/119.0.0.0" etag="wi5bDexjQEQ5st00tXjt" version="22.1.0" type="github" pages="10">
   <diagram name="Page-1" id="i3Bq2wIUowkESgG7gXPR">
     <mxGraphModel dx="480" dy="1575" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -732,6 +732,41 @@
         <mxCell id="QSBnY4lLzXNsKWytS_xM-5" value="yes" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" source="QSBnY4lLzXNsKWytS_xM-3" parent="1">
           <mxGeometry x="-1" relative="1" as="geometry">
             <mxPoint x="375" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QSBnY4lLzXNsKWytS_xM-6" value="Meeting selection is displayed" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="317.5" y="290" width="115" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QSBnY4lLzXNsKWytS_xM-7" value="User enters a selection number" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="320" y="390" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="QSBnY4lLzXNsKWytS_xM-8" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="QSBnY4lLzXNsKWytS_xM-6">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="374.5" y="390" as="targetPoint" />
+            <mxPoint x="375" y="350" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QSBnY4lLzXNsKWytS_xM-9" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="374.5" y="490" as="targetPoint" />
+            <mxPoint x="375" y="440" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QSBnY4lLzXNsKWytS_xM-11" value="User only viewing the meeting?" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+          <mxGeometry x="277.5" y="490" width="195" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="QSBnY4lLzXNsKWytS_xM-14" value="no" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="0.0124" y="15" relative="1" as="geometry">
+            <mxPoint x="375" y="630" as="targetPoint" />
+            <mxPoint x="374.5" y="590" as="sourcePoint" />
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QSBnY4lLzXNsKWytS_xM-16" value="yes" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;strokeColor=#ff0000;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="540" y="540" as="targetPoint" />
+            <mxPoint x="472.5" y="540" as="sourcePoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
